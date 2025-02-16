@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Hang Up</name>
+   <tag></tag>
+   <elementGuidId>2ed9f1bd-dd13-4439-aace-f97298e8f440</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.small-3.columns.second-row-divs > button.end-contact > h4.button-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='call-container']/div/div[9]/div[4]/button/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Hang Up&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>524542a7-2d47-407e-9983-c961362b0cd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-text</value>
+      <webElementGuid>6fcffd91-d6cd-4f69-8755-aaae582d250f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>cd70f52b-a2a8-477d-85b0-9540cba1768e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-i18n</name>
+      <type>Main</type>
+      <value>HangUp</value>
+      <webElementGuid>35876cd3-06a9-4f2a-9aed-1dbb71a4dbc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hang Up</value>
+      <webElementGuid>99d4957c-1686-4b4a-82a7-363d44377575</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;call-container&quot;)/div[@class=&quot;call-contact-body-ui&quot;]/div[@class=&quot;secondary-controls&quot;]/div[@class=&quot;small-3 columns second-row-divs&quot;]/button[@class=&quot;end-contact&quot;]/h4[@class=&quot;button-text&quot;]</value>
+      <webElementGuid>0a7cb054-7d70-41cc-8f58-2f83e328c93a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='call-container']/div/div[9]/div[4]/button/h4</value>
+      <webElementGuid>9ae0953d-45fa-44d5-949e-6748360b7e7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Call ended'])[3]/following::h4[12]</value>
+      <webElementGuid>1c009c3a-f58d-4295-8c5f-d9d3b0a6ecea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No Answer'])[3]/following::h4[12]</value>
+      <webElementGuid>57409d3d-e1fe-43a2-b699-6fc21d9164cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resume'])[3]/preceding::h4[2]</value>
+      <webElementGuid>7bb5657b-dcc4-48f9-87f7-f476940275c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hang Up'])[7]/preceding::h4[3]</value>
+      <webElementGuid>7fff2d13-4183-49cc-8f9a-9024d8d17586</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div[4]/button/h4</value>
+      <webElementGuid>f6eecede-33e2-4a16-a432-0f4b76fc4ec9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Hang Up' or . = 'Hang Up')]</value>
+      <webElementGuid>3690ab9e-d302-426b-a964-4cb291ad3e76</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

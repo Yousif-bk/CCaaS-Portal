@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>rect_Dialed number is invalid_Rectangle_80238</name>
+   <tag></tag>
+   <elementGuidId>cc8404da-3a76-4123-bb42-ac4bd3e6dffe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#Group_118160 > #Rectangle_80238</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//rect[@id = 'Rectangle_80238']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Directory&quot;i >> #Rectangle_80238</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>rect</value>
+      <webElementGuid>624d1de1-64d6-4584-b146-2ec87353e563</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Rectangle_80238</value>
+      <webElementGuid>3c00aecb-381e-4efe-a48e-49d5dc21f4e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>Rectangle 80238</value>
+      <webElementGuid>6a34fa0b-9c36-41d9-9d01-ec862143da5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>44</value>
+      <webElementGuid>725fc8e1-b23d-4701-a545-6603355f1987</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>44</value>
+      <webElementGuid>fc253d11-e4a6-41e8-b50b-bfe360cdb2bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rx</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>9d3176cc-879a-4357-9be0-81b3827ff3d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>transform</name>
+      <type>Main</type>
+      <value>translate(0 -24020)</value>
+      <webElementGuid>4e3ddfdf-3b8d-4f8d-8728-4fc0a3717a4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#f2f2f2</value>
+      <webElementGuid>35f9d7e8-186c-40e2-b3ee-1a97888f220d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>opacity</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>322b5bb2-609a-4566-b59c-a29333a5ea5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Group_118160&quot;)/rect[@id=&quot;Rectangle_80238&quot;]</value>
+      <webElementGuid>1037de68-8848-45a2-b737-b20209517487</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//rect[@id = 'Rectangle_80238']</value>
+      <webElementGuid>344ef8a5-c594-425f-85b1-e4bfc6e62070</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

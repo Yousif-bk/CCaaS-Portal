@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>use</name>
+   <tag></tag>
+   <elementGuidId>b5e31aef-330c-4d8d-a37a-026295d2c8fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>use</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//use[@href = '#icon-app_picker']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Applications&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>use</value>
+      <webElementGuid>763b1dfb-e8d9-422e-bb66-2b56a6c746a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#icon-app_picker</value>
+      <webElementGuid>19aaa077-e28d-4311-8360-42ee894d3997</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;mfe-wrapper&quot;]/div[@class=&quot;cxone-mfe-container-app&quot;]/cxone-header[1]/header[@class=&quot;nice-header ng-star-inserted&quot;]/div[@class=&quot;left-panel&quot;]/div[@class=&quot;app-picker-panel&quot;]/cxone-svg-sprite-icon[1]/div[@class=&quot;svg-sprite-icon ng-star-inserted&quot;]/svg[@class=&quot;header-option-icon&quot;]/use[1]</value>
+      <webElementGuid>912c9dfc-c507-421b-98ef-de8fb0aea8ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//use[@href = '#icon-app_picker']</value>
+      <webElementGuid>44f5d462-8b85-43e0-9323-06af095d5892</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

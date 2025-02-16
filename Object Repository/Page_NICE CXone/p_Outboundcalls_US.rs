@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Outboundcalls_US</name>
+   <tag></tag>
+   <elementGuidId>2347a250-e91b-4136-811a-f1e625ac2486</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.MuiTypography-root.MuiTypography-inherit.css-1352336</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cx1_agent_root']/div[2]/div[2]/div/div/section/div/div[3]/div/div/div/div/div/div[2]/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;interaction-de3ebf12-2f27-4a39-8170-6e919aafb28b&quot;] >> internal:text=&quot;Outboundcalls_US&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>18c60539-162b-4314-97d3-32d15a782751</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTypography-root MuiTypography-inherit css-1352336</value>
+      <webElementGuid>5118301d-cd7a-4336-a701-cc47e1ce9637</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Outboundcalls_US</value>
+      <webElementGuid>03a2cc13-20d1-4da2-b02e-895ed6c254f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@id=&quot;cx1_agent_root&quot;]/main[1]/div[@class=&quot;MuiBox-root css-1uq669f&quot;]/main[@class=&quot;MuiBox-root css-o3ihhy&quot;]/div[@id=&quot;cx1_agent_root&quot;]/div[@class=&quot;MuiBox-root css-19ku4tl&quot;]/div[@class=&quot;MuiBox-root css-13dfkjh&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container css-6sv6c4&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item css-1wxaqej&quot;]/section[@class=&quot;MuiBox-root css-19yj1du&quot;]/div[@class=&quot;MuiBox-root css-11x5kh1&quot;]/div[@class=&quot;noArrow
+            false MuiBox-root css-1c8f6qt&quot;]/div[@class=&quot;interaction MuiBox-root css-0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root ccf-interaction css-1dgr6ct&quot;]/div[@class=&quot;MuiBox-root css-2yplm6&quot;]/div[@class=&quot;MuiBox-root css-7l26r7&quot;]/div[@class=&quot;css-ofo63b&quot;]/div[@class=&quot;MuiBox-root css-1xhj18k&quot;]/div[@class=&quot;MuiBox-root css-179ws4o&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-inherit css-1352336&quot;]</value>
+      <webElementGuid>c7a20d83-20cb-48ad-b6aa-e89d8dbfc943</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cx1_agent_root']/div[2]/div[2]/div/div/section/div/div[3]/div/div/div/div/div/div[2]/div/p</value>
+      <webElementGuid>1482edd2-16e1-4bab-a376-22c6f94ad849</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dialed number is invalid'])[1]/following::p[2]</value>
+      <webElementGuid>51224685-b792-4658-8f39-76d1acd08bd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Outboundcalls_US']/parent::*</value>
+      <webElementGuid>c53f9af9-ce39-43d4-b644-cf21abf3511b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/p</value>
+      <webElementGuid>d0d5e495-dd58-4318-8fc8-deb11a44c813</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Outboundcalls_US' or . = 'Outboundcalls_US')]</value>
+      <webElementGuid>43fb27e7-4f01-4fac-be98-029257f948d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

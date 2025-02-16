@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_My Zone_header-option-icon</name>
+   <tag></tag>
+   <elementGuidId>ccc53347-d54c-4ecf-a752-97a2df614465</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.header-option-icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='My Zone'])[1]/preceding::*[name()='svg'][2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Applications&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>b84fadf3-e0ca-4511-8160-d713ab4678a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header-option-icon</value>
+      <webElementGuid>5c0e1d0c-ae8b-4a3a-bd35-80ef633e7b5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>undefined&quot;</value>
+      <webElementGuid>569b1dc6-1b97-49f4-8f77-9cb588b39d92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;mfe-wrapper&quot;]/div[@class=&quot;cxone-mfe-container-app&quot;]/cxone-header[1]/header[@class=&quot;nice-header ng-star-inserted&quot;]/div[@class=&quot;left-panel&quot;]/div[@class=&quot;app-picker-panel&quot;]/cxone-svg-sprite-icon[1]/div[@class=&quot;svg-sprite-icon ng-star-inserted&quot;]/svg[@class=&quot;header-option-icon&quot;]</value>
+      <webElementGuid>faecae8b-0c03-4bd3-8ed0-a7e329b95ad0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Zone'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>8f78fa46-964a-49d8-b70e-92d48aa005ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Applications'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>00c951ea-85c2-4c04-85e6-2f068e3a2e0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

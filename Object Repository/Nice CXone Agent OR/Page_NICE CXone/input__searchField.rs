@@ -3,7 +3,7 @@
    <description></description>
    <name>input__searchField</name>
    <tag></tag>
-   <elementGuidId>e06143d6-fc2c-494f-b58b-1be70a59ab04</elementGuidId>
+   <elementGuidId>6019f67c-acff-4494-828a-69f08ddcbeda</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d27db4e3-8dab-40fd-8268-a56d7b2cf8ed</webElementGuid>
+      <webElementGuid>6b232571-a66c-4949-be48-96c15a5423b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>d25c76e6-15de-44d1-a352-01cecb5cce42</webElementGuid>
+      <webElementGuid>7935d355-85fe-41d2-9af3-8726f2b42fb0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>fc0773ff-fcbd-4e79-aa60-09b4c049d12d</webElementGuid>
+      <webElementGuid>9a9b90fb-edb5-42ae-9139-20b0c6c4874d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>searchField</value>
-      <webElementGuid>9f032629-3ae2-41b0-adb9-61d238b95aeb</webElementGuid>
+      <webElementGuid>6db95785-6862-403e-8a70-3af98fc1d533</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Search for people, skills, teams, etc.</value>
-      <webElementGuid>7b167c98-d5ec-4820-bf0c-de743c361315</webElementGuid>
+      <webElementGuid>25407daa-d082-4d1d-abb1-362f7df29a33</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>1eb662fc-d431-441b-aa6f-6749fec640e3</webElementGuid>
+      <webElementGuid>65479d16-5de0-4509-8bd8-0bafdc74e201</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>data-testid</name>
       <type>Main</type>
       <value>search-directory</value>
-      <webElementGuid>0b9858a5-f37a-45c7-8f94-14c7b1629347</webElementGuid>
+      <webElementGuid>eb94041e-3e71-4399-b54b-882c347e5120</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,15 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSizeSmall MuiInputBase-inputAdornedStart css-162edyi</value>
-      <webElementGuid>33f23ebe-2485-4751-b3d4-c490120764a8</webElementGuid>
+      <webElementGuid>0c6208df-093c-45b3-bab0-9a2ee72fa784</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>+97148144300</value>
+      <webElementGuid>0e412b74-848d-4fee-8ba4-2aceed7617cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,15 +101,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;searchField&quot;)</value>
-      <webElementGuid>7ad946c9-57b6-4d66-804e-e923e3dc7738</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>+</value>
-      <webElementGuid>1be93e88-3fc8-40b5-ae9b-47b5dd266717</webElementGuid>
+      <webElementGuid>bbca4085-eb0d-460e-80af-c17a5e5fa0ab</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='searchField']</value>
-      <webElementGuid>0d43389c-b421-454d-b6b3-21248721629c</webElementGuid>
+      <webElementGuid>f018af36-5dd2-4f7a-814c-b626b2b68e84</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='cx1_agent_root']/div[2]/div[2]/div/div[3]/div/div/section/div[2]/div[2]/div/div/input</value>
-      <webElementGuid>d2b47c49-bc50-4799-8193-c5058c6a4783</webElementGuid>
+      <webElementGuid>5aa64477-d41e-4102-a6ff-e288d34053e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>f8f09480-56d0-4224-94d8-006a66af3287</webElementGuid>
+      <webElementGuid>4679954a-1ffa-498d-9fbd-df78e3bfbcf9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'searchField' and @placeholder = 'Search for people, skills, teams, etc.' and @type = 'text']</value>
-      <webElementGuid>6692231f-3dce-4d37-a0e1-9c152dd2b7fc</webElementGuid>
+      <webElementGuid>7736af1a-317c-470a-a54b-4bc3e2293767</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

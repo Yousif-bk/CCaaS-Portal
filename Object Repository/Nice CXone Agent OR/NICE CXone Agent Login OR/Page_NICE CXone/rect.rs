@@ -3,15 +3,15 @@
    <description></description>
    <name>rect</name>
    <tag></tag>
-   <elementGuidId>6c649433-7e12-425f-b09b-77df3102b84c</elementGuidId>
+   <elementGuidId>183a987c-d04c-4179-b041-2863507f3221</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value></value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>#Group_118160 > #Group_118158 > #Rectangle_80239 > rect</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>rect</value>
-      <webElementGuid>a6779a96-fab1-4a96-99a7-aeec6c515412</webElementGuid>
+      <webElementGuid>5e3d3302-755d-46b6-89dc-32c69d608915</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>width</name>
       <type>Main</type>
       <value>20.212</value>
-      <webElementGuid>73322daa-6002-4f39-ae79-d6bb4f995b43</webElementGuid>
+      <webElementGuid>c2406acf-527e-4637-9092-ff4d7f2a3d14</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>height</name>
       <type>Main</type>
       <value>19.997</value>
-      <webElementGuid>24a6627f-a069-410d-a76c-0b03529bd10c</webElementGuid>
+      <webElementGuid>2f04965c-8710-49af-9757-748aa41eef17</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>stroke</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>4df534f7-f5d4-4d6f-a39c-ae9e5a1fa645</webElementGuid>
+      <webElementGuid>009a2a61-fa1e-4c19-a6ee-15f249e7d7b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,30 +61,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;Group_118160&quot;)/g[@id=&quot;Group_118158&quot;]/g[@id=&quot;Rectangle_80239&quot;]/rect[1]</value>
-      <webElementGuid>88516609-6f84-484a-8b17-230e5ea49568</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>x</name>
-      <type>Main</type>
-      <value>0.5</value>
-      <webElementGuid>7565b319-d0fa-465d-8a7f-d5ee195f3ef3</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>y</name>
-      <type>Main</type>
-      <value>0.5</value>
-      <webElementGuid>27b8d7ef-3c1f-4683-ad63-f9bc9997b25c</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>fill</name>
-      <type>Main</type>
-      <value>none</value>
-      <webElementGuid>d852379a-7068-4a81-8e03-d1fc18fd1334</webElementGuid>
+      <webElementGuid>baec9919-1405-4465-88c4-ffab43a69f5e</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

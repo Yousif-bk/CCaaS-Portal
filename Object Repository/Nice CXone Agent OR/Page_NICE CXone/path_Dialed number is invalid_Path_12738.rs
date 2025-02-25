@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_Dialed number is invalid_Path_12738</name>
+   <tag></tag>
+   <elementGuidId>42146a68-3afd-4006-a2e8-3cb50851f51e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//path[@id = 'Path_12738']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Path_12738</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;end&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>52993db7-5487-4ec9-8513-3353341271d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Path_12738</value>
+      <webElementGuid>50638417-4106-4f88-8baa-caf278a21629</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>Path 12738</value>
+      <webElementGuid>3504d01d-70c3-46c8-9108-fd4f4cab5786</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>transform</name>
+      <type>Main</type>
+      <value>translate(615.148 371.093)</value>
+      <webElementGuid>34b16f13-b310-4581-af82-a5354803fc90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M-21.236-154.175c-.025-.122-.118-.281-.684-.684a10.866,10.866,0,0,0-4.1-2.051,19.116,19.116,0,0,0-4.786-.684,22.98,22.98,0,0,0-5.469.684,10.867,10.867,0,0,0-4.1,2.051c-.565.4-.659.561-.684.684a11.148,11.148,0,0,0,0,2.735c.069.545.153.436,1.367.684,1.645.335,3.643.177,3.418-.684,0,0,.021-1.251,0-1.367s-.617-1.024,0-1.367c.678-.377,2.647-.683,5.469-.684s4.108.307,4.786.684c.617.343.021,1.251,0,1.367s0,1.367,0,1.367c-.224.861,1.774,1.019,3.418.684,1.214-.247,1.3-.139,1.367-.684A11.143,11.143,0,0,0-21.236-154.175Z</value>
+      <webElementGuid>90f1cee8-c744-4e32-98d1-f2583a9baafe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Path_12738&quot;)</value>
+      <webElementGuid>418b648a-1676-4a35-8adc-b8fec9062ecf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//path[@id = 'Path_12738']</value>
+      <webElementGuid>23a3a17f-bd80-40de-a015-8201f05683aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Employees</name>
+   <tag></tag>
+   <elementGuidId>cfb66e9e-d898-4293-8fa7-aacfc248779d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.page-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='File Activity'])[1]/following::div[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=main >> internal:text=&quot;Employees&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a00326a0-82e8-4fce-8b98-a19f822898c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>page-title</value>
+      <webElementGuid>465802fd-42a6-4ed8-a989-4cf0f098184e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Employees</value>
+      <webElementGuid>64c8acee-d5b3-4579-8ed1-522b06b0edb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;mfe-wrapper&quot;]/section[@class=&quot;main-content&quot;]/main[@class=&quot;cxone-mfe-child-app&quot;]/mft-wc-wrapper[@class=&quot;ng-star-inserted&quot;]/div[1]/admin-app[1]/app-users[1]/div[@class=&quot;ng2-users-page&quot;]/div[@class=&quot;users-page-block&quot;]/div[@class=&quot;header&quot;]/div[@class=&quot;page-title&quot;]</value>
+      <webElementGuid>8a3175bb-bd5b-4bb4-9463-55a0ab3cebad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='File Activity'])[1]/following::div[5]</value>
+      <webElementGuid>1fb14e2a-5417-4215-af89-c88c0942c125</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Storage Settings'])[1]/following::div[6]</value>
+      <webElementGuid>84eb586c-ad97-452d-9ac2-2886f115bbbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import Employees'])[1]/preceding::div[1]</value>
+      <webElementGuid>8cde2b03-8e28-4b32-89de-70f8d025b989</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Employee'])[1]/preceding::div[1]</value>
+      <webElementGuid>460a5450-80ab-4685-a7ed-a81e6e9d2023</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-users/div/div/div/div</value>
+      <webElementGuid>5d2d100d-ac38-4eeb-af61-8af173bacd10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Employees' or . = 'Employees')]</value>
+      <webElementGuid>fd4a254a-9153-46f5-9d26-08eb41c2180b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

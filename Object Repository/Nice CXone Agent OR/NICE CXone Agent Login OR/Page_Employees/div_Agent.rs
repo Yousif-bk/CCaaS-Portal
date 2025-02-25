@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Agent</name>
+   <tag></tag>
+   <elementGuidId>04de1bb2-c26b-4cf3-a446-6d556e3a3f93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.module-name.ng-tns-c967170128-2.cxa.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='select-cxa']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Agent&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d8c1f6d8-0fbc-4705-81cc-2e48c8963e0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>module-name ng-tns-c967170128-2 cxa ng-star-inserted</value>
+      <webElementGuid>8fb795f6-0146-418c-a654-847102574bb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Agent</value>
+      <webElementGuid>7f5a7012-7807-46c2-b391-3f1535d3908b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select-cxa&quot;)/div[@class=&quot;module-name ng-tns-c967170128-2 cxa ng-star-inserted&quot;]</value>
+      <webElementGuid>5ee543fa-c84e-4d5a-ab84-75ad6a0b81eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='select-cxa']/div</value>
+      <webElementGuid>ade91162-9b6a-450b-b73f-bf4faac60f7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MAX'])[1]/following::div[3]</value>
+      <webElementGuid>24415873-c3d1-4470-8f90-79c75284e9fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACD'])[1]/following::div[5]</value>
+      <webElementGuid>81ef8e52-b5ec-4252-b498-c6041301d74c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Studio Authentication'])[1]/preceding::div[3]</value>
+      <webElementGuid>0294b0eb-0e4d-4a32-80b4-41602d64b2ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/div</value>
+      <webElementGuid>91abdae7-aabb-433d-9b37-0b03b223d389</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Agent' or . = 'Agent')]</value>
+      <webElementGuid>ed44fb25-77b8-4ec9-805e-0436f197308f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

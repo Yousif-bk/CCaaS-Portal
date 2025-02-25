@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Outbound Call Suites Test</name>
+   <name>Inbound Call Suites Test</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <mailRecipient>yousif.babiker@outlook.com;</mailRecipient>
+   <mailRecipient></mailRecipient>
    <numberOfRerun>3</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>16652f41-8843-42fc-950b-3bfc1ca7479d</testSuiteGuid>
+   <testSuiteGuid>47eb2350-3081-4923-9de3-679f63667a10</testSuiteGuid>
    <testCaseLink>
-      <guid>4db0017c-34c3-4498-8128-0777513c457b</guid>
+      <guid>9676e7a7-56a4-4f72-a218-8733c6db806e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/NICE CXone Agent/NICE CXone Agent Outbound Call Test</testCaseId>
+      <testCaseId>Test Cases/NICE CXone Agent/NICE CXone Agent Inbound Call Test</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

@@ -3,15 +3,15 @@
    <description></description>
    <name>button_Do Not Remind Me</name>
    <tag></tag>
-   <elementGuidId>89c60d3c-9820-43b7-9543-35491cf72fa6</elementGuidId>
+   <elementGuidId>47c28f67-d1e3-471d-9cde-b165c626b59e</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//button[@type='button']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeSmall.MuiButton-outlinedSizeSmall.MuiButton-root.MuiButton-outlined.MuiButton-outlinedPrimary.MuiButton-sizeSmall.MuiButton-outlinedSizeSmall.css-difs63</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4417a8db-b410-4d1d-b61e-3d64b75211a3</webElementGuid>
+      <webElementGuid>f2deb835-f46d-498e-bf5c-5b36f1ce1bcb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeSmall MuiButton-outlinedSizeSmall MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeSmall MuiButton-outlinedSizeSmall css-difs63</value>
-      <webElementGuid>2485d63a-dc98-42d4-b780-d71776601482</webElementGuid>
+      <webElementGuid>60fdd3d3-bce0-40b1-b9de-2c95069ac97f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>205c8de4-35f0-46ad-bd46-60fafbd98285</webElementGuid>
+      <webElementGuid>550c9c5e-1abc-4c8f-b93d-c8bebd3fc124</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>ed5b1b03-ba49-4b5d-9bdf-98b2fe378543</webElementGuid>
+      <webElementGuid>9a9579e7-7e75-49a0-99d3-5445f2a5d1b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Do Not Remind Me</value>
-      <webElementGuid>8a97e713-3999-46b0-92b0-b634aa35cd01</webElementGuid>
+      <webElementGuid>cd498d47-2ef8-48ee-9386-e528444e8ba0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>data-testid</name>
       <type>Main</type>
       <value>softphone-Donot-Remind</value>
-      <webElementGuid>5c2da4ac-7822-4acf-9e97-0f15f86ec478</webElementGuid>
+      <webElementGuid>a1f3db2e-f8ed-4eac-8e80-e0b67b2c6155</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Do Not Remind Me</value>
-      <webElementGuid>e47dec39-e53f-4130-9f12-c59699be4bd4</webElementGuid>
+      <webElementGuid>160e3774-35de-4784-a85c-2d8ba4995e79</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;1&quot;)/div[@class=&quot;Toastify__toast-body&quot;]/div[2]/div[@class=&quot;MuiBox-root css-10rqxfs&quot;]/div[@class=&quot;any MuiBox-root css-2pbhvv&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/div[@class=&quot;css-av3g5w&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeSmall MuiButton-outlinedSizeSmall MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeSmall MuiButton-outlinedSizeSmall css-difs63&quot;]</value>
-      <webElementGuid>ced5d59d-329c-4460-b5e1-7a8309c3c956</webElementGuid>
+      <webElementGuid>20c46963-c229-48ff-a6d4-f75df614572d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='button']</value>
-      <webElementGuid>495a6d70-5a36-425f-ad53-6db181abb611</webElementGuid>
+      <webElementGuid>ec724469-a151-48ab-ae81-fa0cf0eefce2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='1']/div/div[2]/div/div/div[5]/div/button</value>
-      <webElementGuid>b44754f7-ff3d-4126-822d-2cc3491dcf65</webElementGuid>
+      <webElementGuid>d9738a16-9ace-436b-b8b9-27f10a6f7294</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Install Softphone Extension'])[1]/following::button[1]</value>
-      <webElementGuid>7456df3a-8042-43fa-8658-981bb3ce2a8d</webElementGuid>
+      <webElementGuid>4221b009-cdb4-40b0-9e28-2574b4673165</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Remind Me Later'])[1]/preceding::button[1]</value>
-      <webElementGuid>bdb478f7-3155-4fc5-a209-6b01a7808551</webElementGuid>
+      <webElementGuid>dd351c0c-f6ee-4186-ba1f-03b0386a3436</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='YB'])[1]/preceding::button[5]</value>
-      <webElementGuid>ab864179-8975-4ce2-8310-e24c4ff70c17</webElementGuid>
+      <webElementGuid>e5bf794c-933e-4bbc-88b8-d04da2c80544</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Do Not Remind Me']/parent::*</value>
-      <webElementGuid>5a7acdc5-3bc1-473f-bec1-6020f6f6aea9</webElementGuid>
+      <webElementGuid>b40a1180-4004-4e18-8c0f-10dac6835158</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>c0785bac-15e5-4f83-97b6-8a409aad2f23</webElementGuid>
+      <webElementGuid>dd014734-7239-4c67-9a38-d95705063149</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,6 +149,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @title = 'Do Not Remind Me' and (text() = 'Do Not Remind Me' or . = 'Do Not Remind Me')]</value>
-      <webElementGuid>e798e6b1-9e98-40ae-afdc-cef6e16d75e1</webElementGuid>
+      <webElementGuid>f6f764ed-04ee-4b34-a850-d722eb18cb61</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

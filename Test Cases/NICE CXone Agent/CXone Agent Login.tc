@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>CXone Agent Login</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>a7ee4c0f-3bad-4e1a-bb77-6a85b2f27bd3</testCaseGuid>
-</TestCaseEntity>

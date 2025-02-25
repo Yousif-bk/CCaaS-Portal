@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>NICE CXone Agent Outbound Call Test</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a57fb9b0-8c08-4551-a801-88a5d3b6d95a</testCaseGuid>
+</TestCaseEntity>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Sign In_username</name>
+   <name>input__searchField</name>
    <tag></tag>
-   <elementGuidId>16be2c96-e57b-4c0e-bf2f-3eceae58fa52</elementGuidId>
+   <elementGuidId>92c69608-1422-47df-a4d2-2540633b7997</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='username']</value>
+         <key>CSS</key>
+         <value>#searchField</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#username</value>
+         <key>XPATH</key>
+         <value>//input[@id='searchField']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;Username&quot;i</value>
+         <value>[data-testid=&quot;search-directory&quot;]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,31 +29,39 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>095a4d19-bf02-402a-acca-92628b5387fb</webElementGuid>
+      <webElementGuid>9727ee7e-419b-4559-afe9-0bb24b29761e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-invalid</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>ba46918a-63fc-43f5-be31-2c11212c8fdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>e6544c18-4ab5-4c13-9ad6-45cda650f209</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>094c581d-400c-4e5d-8c70-55657d5bc867</webElementGuid>
+      <value>searchField</value>
+      <webElementGuid>dcba3af3-13b9-4415-a2ca-8236d4d80ba5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>name</name>
+      <name>placeholder</name>
       <type>Main</type>
-      <value>username</value>
-      <webElementGuid>bad43fec-7b42-423a-b458-6d6e6f9de3ef</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>1</value>
-      <webElementGuid>80fb849f-8861-4fed-a21f-22c65d4a2e9c</webElementGuid>
+      <value>Search for people, skills, teams, etc.</value>
+      <webElementGuid>b9bd0ed4-91ae-471e-b852-a74e37d7ef38</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,55 +69,47 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>fd1c1b8b-9cf2-4545-8f5e-72fed77d98ce</webElementGuid>
+      <webElementGuid>fedd3594-b4a2-4ebc-a9bd-e8a5d938429a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>search-directory</value>
+      <webElementGuid>c2241057-9a99-4a0c-a4a7-a11e53a8a38d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control</value>
-      <webElementGuid>dc3bb6ba-9a8b-4d3e-a625-7759a3eb9240</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>oninput</name>
-      <type>Main</type>
-      <value>validateEmail()</value>
-      <webElementGuid>eeccacc4-bd98-4970-ad15-265a70431694</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
-      <type>Main</type>
-      <value>username</value>
-      <webElementGuid>2e68bf3e-bdf3-45b3-b9cc-3148f0d1effa</webElementGuid>
+      <value>MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputSizeSmall MuiInputBase-inputAdornedStart css-162edyi</value>
+      <webElementGuid>e41e8c74-32d4-4f07-b56f-0e3a4d522c34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;username&quot;)</value>
-      <webElementGuid>f7dcb0f5-187d-4420-979e-3a471188537f</webElementGuid>
+      <value>id(&quot;searchField&quot;)</value>
+      <webElementGuid>13ed4d32-25b4-438f-87e5-7171e072daa5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='username']</value>
-      <webElementGuid>e1db3ead-b52c-45bc-a023-73bd6184d578</webElementGuid>
+      <value>//input[@id='searchField']</value>
+      <webElementGuid>bd0e3036-bb81-4e94-8b7a-2ef772aaf06f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='login-step-1']/div/div/input</value>
-      <webElementGuid>f4d49b53-4408-46c8-8622-5012026c047a</webElementGuid>
+      <value>//div[@id='cx1_agent_root']/div[2]/div[2]/div/div[3]/div/div/section/div[2]/div[2]/div/div/input</value>
+      <webElementGuid>e06d5666-8a8b-4ccd-85dc-4da76c9b940e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,14 +117,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>d4da7224-eda2-472e-9bb3-5056635cc3fa</webElementGuid>
+      <webElementGuid>da80b572-c5cd-499f-a999-243f80fe8c1c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'username' and @name = 'username' and @type = 'text']</value>
-      <webElementGuid>ac1abdb8-950e-496a-8975-9abf1e6e3a05</webElementGuid>
+      <value>//input[@id = 'searchField' and @placeholder = 'Search for people, skills, teams, etc.' and @type = 'text']</value>
+      <webElementGuid>4ffc5c05-ae0b-4dff-a4b2-7e30601bdd3c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

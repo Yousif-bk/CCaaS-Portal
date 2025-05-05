@@ -22,16 +22,23 @@ import org.openqa.selenium.chrome.ChromeOptions
 import org.openqa.selenium.WebDriver
 
 
-// Set Chrome options to allow microphone access
-//ChromeOptions options = new ChromeOptions()
-//Map<String, Object> prefs = new HashMap<String, Object>()
-//prefs.put("profile.default_content_setting_values.media_stream_mic", 1)  // 1 = allow, 2 = block
-//prefs.put("profile.default_content_setting_values.media_stream_camera", 1)
-//options.setExperimentalOption("prefs", prefs)
-//
-//WebDriver driver = new ChromeDriver(options)
-//DriverFactory.changeWebDriver(driver)
+import com.kms.katalon.core.webui.driver.DriverFactory
+import com.kms.katalon.core.configuration.RunConfiguration
+import org.openqa.selenium.chrome.ChromeOptions
+import java.util.HashMap
 
+// Set Chrome options
+ChromeOptions options = new ChromeOptions()
+Map<String, Object> prefs = new HashMap<>()
+prefs.put("profile.default_content_setting_values.media_stream_mic", 1)
+prefs.put("profile.default_content_setting_values.media_stream_camera", 1)
+options.setExperimentalOption("prefs", prefs)
+
+// Pass the options to Katalon
+
+RunConfiguration.setWebDriverPreferencesProperty("prefs", prefs)
+
+// Open browser with Katalon control
 WebUI.openBrowser('')
 WebUI.navigateToUrl('https://cxagent.nicecxone.com/')
 

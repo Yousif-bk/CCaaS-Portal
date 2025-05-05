@@ -27,16 +27,30 @@ import com.kms.katalon.core.configuration.RunConfiguration
 import org.openqa.selenium.chrome.ChromeOptions
 import java.util.HashMap
 
-// Set Chrome options
-ChromeOptions options = new ChromeOptions()
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.configuration.RunConfiguration
+
 Map<String, Object> prefs = new HashMap<>()
 prefs.put("profile.default_content_setting_values.media_stream_mic", 1)
 prefs.put("profile.default_content_setting_values.media_stream_camera", 1)
-options.setExperimentalOption("prefs", prefs)
 
-// Pass the options to Katalon
+List<String> chromeArgs = Arrays.asList(
+	"--use-fake-ui-for-media-stream",
+	"--use-fake-device-for-media-stream"
+)
 
 RunConfiguration.setWebDriverPreferencesProperty("prefs", prefs)
+RunConfiguration.setWebDriverPreferencesProperty("args", chromeArgs)
+// Set Chrome options
+//ChromeOptions options = new ChromeOptions()
+//Map<String, Object> prefs = new HashMap<>()
+//prefs.put("profile.default_content_setting_values.media_stream_mic", 1)
+//prefs.put("profile.default_content_setting_values.media_stream_camera", 1)
+//options.setExperimentalOption("prefs", prefs)
+//
+//// Pass the options to Katalon
+//
+//RunConfiguration.setWebDriverPreferencesProperty("prefs", prefs)
 
 // Open browser with Katalon control
 WebUI.openBrowser('')

@@ -16,24 +16,26 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import internal.GlobalVariable as GlobalVariable
 
-// ✅ Selenium imports
 import org.openqa.selenium.WebDriver
 import org.openqa.selenium.chrome.ChromeDriver
 import org.openqa.selenium.chrome.ChromeOptions
 import com.kms.katalon.core.webui.driver.DriverFactory
 
-// ✅ Set ChromeOptions to auto-allow mic and camera
-ChromeOptions options = new ChromeOptions()
-Map<String, Object> prefs = new HashMap<String, Object>()
-prefs.put("profile.default_content_setting_values.media_stream_mic", 1)
-prefs.put("profile.default_content_setting_values.media_stream_camera", 1)
-options.setExperimentalOption("prefs", prefs)
 
-WebDriver driver = new ChromeDriver(options)
-DriverFactory.changeWebDriver(driver)
+// Set Chrome options to allow microphone access
+//ChromeOptions options = new ChromeOptions()
+//Map<String, Object> prefs = new HashMap<String, Object>()
+//prefs.put("profile.default_content_setting_values.media_stream_mic", 1)  // 1 = allow, 2 = block
+//prefs.put("profile.default_content_setting_values.media_stream_camera", 1)
+//options.setExperimentalOption("prefs", prefs)
+//
+//WebDriver driver = new ChromeDriver(options)
+//DriverFactory.changeWebDriver(driver)
 
-// ✅ Start test flow
+WebUI.openBrowser('')
+
 WebUI.navigateToUrl('https://cxagent.nicecxone.com/')
 
 WebUI.setText(findTestObject('Object Repository/Nice CXone Agent OR/Page_Sign In/input_Sign In_username'), '800engagex_aabaker@eand.com')
@@ -48,6 +50,7 @@ WebUI.click(findTestObject('Object Repository/Nice CXone Agent OR/Page_NICE CXon
 
 WebUI.setText(findTestObject('Object Repository/Nice CXone Agent OR/Page_NICE CXone/input__searchField'), '+97148144300')
 
+
 WebUI.click(findTestObject('Object Repository/Nice CXone Agent OR/Page_NICE CXone/div_Voice Call'))
 
 WebUI.click(findTestObject('Object Repository/Nice CXone Agent OR/Page_NICE CXone/svg_Dialed number is invalid_MuiSvgIcon-roo_dfe7c0'))
@@ -61,3 +64,4 @@ WebUI.verifyElementPresent(findTestObject('Object Repository/Nice CXone Agent OR
 WebUI.click(findTestObject('Object Repository/Nice CXone Agent OR/Page_NICE CXone/svg__MuiSvgIcon-root MuiSvgIcon-fontSizeMed_cb259f'))
 
 WebUI.closeBrowser()
+

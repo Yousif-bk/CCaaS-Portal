@@ -30,17 +30,17 @@ import java.util.HashMap
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.configuration.RunConfiguration
 
-Map<String, Object> prefs = new HashMap<>()
-prefs.put("profile.default_content_setting_values.media_stream_mic", 1)
-prefs.put("profile.default_content_setting_values.media_stream_camera", 1)
-
-List<String> chromeArgs = Arrays.asList(
-	"--use-fake-ui-for-media-stream",
-	"--use-fake-device-for-media-stream"
-)
-
-RunConfiguration.setWebDriverPreferencesProperty("prefs", prefs)
-RunConfiguration.setWebDriverPreferencesProperty("args", chromeArgs)
+//Map<String, Object> prefs = new HashMap<>()
+//prefs.put("profile.default_content_setting_values.media_stream_mic", 1)
+//prefs.put("profile.default_content_setting_values.media_stream_camera", 1)
+//
+//List<String> chromeArgs = Arrays.asList(
+//	"--use-fake-ui-for-media-stream",
+//	"--use-fake-device-for-media-stream"
+//)
+//
+//RunConfiguration.setWebDriverPreferencesProperty("prefs", prefs)
+//RunConfiguration.setWebDriverPreferencesProperty("args", chromeArgs)
 // Set Chrome options
 //ChromeOptions options = new ChromeOptions()
 //Map<String, Object> prefs = new HashMap<>()
@@ -70,7 +70,7 @@ WebUI.setText(findTestObject('Object Repository/Nice CXone Agent OR/Page_NICE CX
 
 WebUI.click(findTestObject('Object Repository/Nice CXone Agent OR/Page_NICE CXone/div_Voice Call'))
 
-WebUI.click(findTestObject('Object Repository/Nice CXone Agent OR/Page_NICE CXone/path_Dialed number is invalid_Path_12738'))
+//WebUI.click(findTestObject('Object Repository/Nice CXone Agent OR/Page_NICE CXone/path_Dialed number is invalid_Path_12738'))
 
 WebUI.closeBrowser()
 

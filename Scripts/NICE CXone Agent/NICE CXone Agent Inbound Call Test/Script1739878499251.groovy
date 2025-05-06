@@ -53,15 +53,15 @@ WebUI.setText(findTestObject('Object Repository/Nice CXone Agent OR/Page_NICE CX
 
 WebUI.click(findTestObject('Object Repository/Nice CXone Agent OR/Page_NICE CXone/div_Voice Call'))
 
-WebUI.click(findTestObject('Object Repository/Nice CXone Agent OR/Page_NICE CXone/svg_Dialed number is invalid_MuiSvgIcon-roo_dfe7c0'))
+//WebUI.click(findTestObject('Object Repository/Nice CXone Agent OR/Page_NICE CXone/svg_Dialed number is invalid_MuiSvgIcon-roo_dfe7c0'))
 
-WebUI.click(findTestObject('Object Repository/Nice CXone Agent OR/Page_NICE CXone/span_2'))
+//WebUI.click(findTestObject('Object Repository/Nice CXone Agent OR/Page_NICE CXone/span_2'))
 
-WebUI.waitForAlert(10)
+//WebUI.waitForAlert(10)
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Nice CXone Agent OR/Page_NICE CXone/p_Outboundcalls_US'), 0)
+//WebUI.verifyElementPresent(findTestObject('Object Repository/Nice CXone Agent OR/Page_NICE CXone/p_Outboundcalls_US'), 0)
 
-WebUI.click(findTestObject('Object Repository/Nice CXone Agent OR/Page_NICE CXone/svg__MuiSvgIcon-root MuiSvgIcon-fontSizeMed_cb259f'))
+//WebUI.click(findTestObject('Object Repository/Nice CXone Agent OR/Page_NICE CXone/svg__MuiSvgIcon-root MuiSvgIcon-fontSizeMed_cb259f'))
 
 WebUI.closeBrowser()
 

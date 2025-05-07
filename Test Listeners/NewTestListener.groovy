@@ -67,7 +67,7 @@ class NewTestListener {
 		
 		
 
-		def summary = "Test Suite Execution Report: ${testSuiteId}"
+		def summary = "Health Check Report: NICE Outbound/Inbound"
 		def description = "Test Execution Summary:\n\n${testResultsText}"
 
 		WS.comment("Test summary: " + summary)
